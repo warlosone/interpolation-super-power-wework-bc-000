@@ -6,5 +6,6 @@ def display_rainbow(x)
   puts "G: #{x}[]"
   puts "R: #{x}[]"
   puts "B: #{x}[]"
+  puts "I: #{x}[]"
   puts "V: #{x}[]"
 end
