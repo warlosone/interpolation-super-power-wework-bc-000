@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow(x)
+def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
   puts "R: [#{x}]"
   puts "O: [#{x}]"
   puts "Y: [#{x}]"
